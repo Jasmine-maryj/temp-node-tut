@@ -1,0 +1,10 @@
+Jasmine
+Mary
+Jasmine Mary 
+Jasmine Mary  
+Hey Baby!
+Hey
+Hello
+Haha
+
+Here is the result: Hello this is first text file, Hello this is second text fileHere is the result: Hello this is first text file, Hello this is second text fileHere is the result: Hello this is first text file, Hello this is second text fileHere is the result: Hello this is first text file, Hello this is second text file
